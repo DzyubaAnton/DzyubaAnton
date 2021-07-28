@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/antondzyuba/">
   <img align="left" alt="Dzyuba Anton | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href='https://drive.google.com/file/d/13tUuoiJKBFLpInWCtEJNxoPbpQXA99XR/view?usp=sharing'>Моё резюме</a>
+<a href='https://drive.google.com/file/d/1xp3BCZPbk8PIi903ZY3CkgnNNQYOyCX9/view?usp=sharing'>Моё резюме</a>
 
 <br />
   
