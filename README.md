@@ -1,21 +1,15 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<a href="https://t.me/DzyubaAnton">
-  <img align="left" alt="Dzyuba Anton | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/antondzyuba/">
-  <img align="left" alt="Dzyuba Anton | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href='https://drive.google.com/file/d/1xp3BCZPbk8PIi903ZY3CkgnNNQYOyCX9/view?usp=sharing'>Моё резюме</a>
-
-<br />
-  
 ### Привет, меня зовут Антон - я Fullstack-разработчик JavaScript
 
 Я получаю удовольствие разрабатывая приложения, интерфейсы и обожаю тот момент, когда наконец всё работает как надо. Для меня важно качество  и читаемость кода, удобство архитектуры и разработки. Совершенствование своих навыков для меня приоритет.
 
 ![CodeWars](https://www.codewars.com/users/BeardShaman/badges/large)
+
+### Примеры моих работ
+
+<a href='https://teplo.herokuapp.com' >Хочу в тепло!</a>
+<br/>
+<a href='https://todos-and-notes.herokuapp.com/' >Todos & Notes</a>
+<br/>
 
 ### Стэк технологий который я использовал
 [![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
@@ -35,3 +29,15 @@
 📈 My GitHub 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DzyubaAnton&show_icons=true&theme=gotham" alt="Dzyuba Anton" />
+
+# Мои контакты
+<br />
+<a href="https://t.me/DzyubaAnton">
+  <img align="left" alt="Dzyuba Anton | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/antondzyuba/">
+  <img align="left" alt="Dzyuba Anton | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href='https://drive.google.com/file/d/1xp3BCZPbk8PIi903ZY3CkgnNNQYOyCX9/view?usp=sharing'>Моё резюме</a>
+<br />
