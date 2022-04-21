@@ -7,8 +7,11 @@
 ### Текущее место работы
 
 Ай-Теко (I-Teco) Москва, www.i-teco.ru
+<br/>
 Работаю над проектами:
+<br/>
 Сбербанк <a href='https://sberbankaktivno.ru/' >Активный возраст</a>
+<br/>
 Сбер <a href='https://today.sberbankvmeste.ru' >Вместе</a>
 
 ### Примеры моих работ
